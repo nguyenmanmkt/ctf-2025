@@ -92,6 +92,7 @@ HTTP/1.1 302 Found
 Location: /dashboard
 Set-Cookie: session=xyz123; HttpOnly; Path=/; Secure
 ```
+<img width="768" height="644" alt="image" src="https://github.com/user-attachments/assets/47c591ef-1e87-45ba-b567-1fe077c9fb23" />
 
 ---
 
