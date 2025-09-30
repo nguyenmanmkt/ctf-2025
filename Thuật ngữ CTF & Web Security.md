@@ -221,11 +221,3 @@
 - **Rate-limit:** Giới hạn số request; ảnh hưởng brute-force/fuzzing.  
 
 ---
-
-## Lời khuyên cho sinh viên
-- Luôn làm trên **lab** được phép.  
-- Ghi **writeup** ngay sau khi có flag.  
-- Khi không hiểu thuật ngữ, hỏi mentor — đừng đoán mò.  
-- Lưu các payload & notes vào repository chung (Notion / GitHub).
-
----
