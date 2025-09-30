@@ -238,7 +238,7 @@ Content-Type: text/html
 > Thay `images/...` bằng đường dẫn ảnh bạn muốn dùng trên GitHub / Notion.
 
 - Luồng Request/Response:  
-  `![HTTP flow](Day1/images/HTTP-Status-Codes-Cheat-Sheet.webp)`
+  ![HTTP flow](Day1/images/HTTP-Status-Codes-Cheat-Sheet.webp)
 
 - Cheat-sheet Status Codes (infographic):  
   `![Status codes](images/status_codes.png)`
@@ -247,8 +247,4 @@ Content-Type: text/html
   `![Cookie session flow](images/cookie_session.png)`
 
 ---
-
-Mình đã soạn file Markdown này sẵn; mở file trên canvas để xem/ chỉnh sửa. Nếu muốn, mình sẽ:
-- Thêm ảnh mẫu vào thư mục `images/` (mình sẽ chèn link ảnh).
-- Xuất file `.md` để bạn tải về.
 
