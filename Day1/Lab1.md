@@ -12,11 +12,8 @@
 ---
 
 ## Môi trường & chuẩn bị
-- Target lab (chỉ test trên môi trường được phép): **OWASP Juice Shop**, **DVWA**, hoặc PortSwigger labs.
-- Burp Suite (Community đủ cho intercept & repeater).
-- Trình duyệt riêng cho test (Firefox/Chrome) — dùng profile test.
-- (Tuỳ chọn) FoxyProxy extension để bật/tắt proxy nhanh.
-- Quy tắc: **Chỉ test trên hệ thống được phép**.
+- Máy ảo (Windows11/Kali) 
+- Burp Suite Community ![Download](https://portswigger.net/burp/communitydownload)
 
 ---
 
