@@ -1,9 +1,9 @@
 # 🔗 Resources 
 
 ## Tài Liệu
-- [PortSwigger — Web Security Academy](https://portswigger.net/web-security) — kho lab tương tác, lý thuyết + hands-on (rất phù hợp Week 1–3).  
+- [PortSwigger — Web Security Academy](https://portswigger.net/web-security) — kho lab tương tác, lý thuyết + hands-on .  
 - [OWASP Juice Shop (GitHub)](https://github.com/OWASP/juice-shop) — ứng dụng dễ deploy chứa nhiều lỗ hổng để practice offline/self-hosted.  
-- [OWASP Top Ten](https://owasp.org/www-project-top-ten/) — danh sách 10 lỗ hổng web phổ biến, nên đọc song song.
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/) — danh sách 10 lỗ hổng web phổ biến.
 
 ## Labs
 - [picoCTF](https://picoctf.org) — CTF dành cho sinh viên & beginner, nhiều challenge Web cơ bản.  
