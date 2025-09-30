@@ -217,8 +217,7 @@ Content-Type: text/html
 
 ---
 
-# Checklist / Cheatsheet nhanh (copy-paste)
-
+# Checklist / Cheatsheet nhanh 
 ```text
 — Trước khi intercept:
   * Proxy: 127.0.0.1:8080 (Burp default)
@@ -235,7 +234,6 @@ Content-Type: text/html
   * Nếu replay thất bại: check CSRF token (lấy token mới bằng GET form)
 ```
 
----
  
 
 
