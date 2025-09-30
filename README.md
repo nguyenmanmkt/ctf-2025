@@ -72,7 +72,3 @@
 - Có kho writeup riêng để ôn thi
 
 ---
-
-**Ghi chú (tùy chọn):**
-- Mỗi buổi nên có checklist: mục tiêu, lab link, người chịu trách nhiệm, thời lượng (1.5–3 giờ)  
-- Khuyến khích viết writeup dạng markdown lưu chung (Ví dụ: `/writeups/<challenge-name>.md`) để dễ review
