@@ -19,6 +19,8 @@
 
 # HTTP là gì — Request / Response
 
+![HTTP flow](images/ImageOfHTTPRequestResponse.png)
+
 **HTTP (HyperText Transfer Protocol)** là giao thức cho client (trình duyệt, mobile app) và server trao đổi dữ liệu theo mô hình *request → response*.  
 Mặc định HTTP là **stateless** (server không nhớ trạng thái giữa các request), vì vậy cần cơ chế như *cookies* / *sessions* để duy trì trạng thái.
 
@@ -92,7 +94,7 @@ HTTP/1.1 302 Found
 Location: /dashboard
 Set-Cookie: session=xyz123; HttpOnly; Path=/; Secure
 ```
-<img width="768" height="644" alt="image" src="https://github.com/user-attachments/assets/47c591ef-1e87-45ba-b567-1fe077c9fb23" />
+![Status codes](images/HTTP-Status-Codes-Cheat-Sheet.webp)
 
 ---
 
@@ -157,7 +159,9 @@ Vì HTTP là stateless, server lưu **session** (object) để giữ trạng th�
 - Luôn validate session server-side (đừng tin cookie raw).  
 - Dùng `HttpOnly`, `Secure`.  
 - Expire / rotate session ID khi cần (logout, privilege change).
-
+- 
+- Luồng Cookie & Session: 
+![Cookie session flow](images/session-va-cookie-4.png)
 ---
 
 # Ví dụ thực tế: flow login và debug bằng intercept
@@ -233,18 +237,6 @@ Content-Type: text/html
 ```
 
 ---
+ 
 
-## Hình ảnh (gợi ý chèn)
-> Thay `images/...` bằng đường dẫn ảnh bạn muốn dùng trên GitHub / Notion.
-
-- Luồng Request/Response:  
-  ![HTTP flow](images/HTTP-Status-Codes-Cheat-Sheet.webp)
-
-- Cheat-sheet Status Codes (infographic):  
-  `![Status codes](images/status_codes.png)`
-
-- Luồng Cookie & Session:  
-  `![Cookie session flow](images/cookie_session.png)`
-
----
 
