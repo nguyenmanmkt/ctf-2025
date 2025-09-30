@@ -1,5 +1,3 @@
-# ctf-2025
-
 # 🗓 Lộ trình cấp tốc CTF Web (4 tuần)
 
 ## Tuần 1 — Nền tảng cơ bản  
