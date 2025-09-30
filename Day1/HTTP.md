@@ -1,8 +1,7 @@
 # Lý thuyết — HTTP cơ bản, Status Codes, Headers, Cookie & Session
 
-> Tài liệu chuẩn để dán lên GitHub / Notion. Có ví dụ raw HTTP, checklist, và chỗ đặt ảnh (thay bằng ảnh thực tế khi đăng).
 
----
+
 
 ## Mục lục
 1. [HTTP là gì — Request / Response](#http-là-gì---request--response)  
