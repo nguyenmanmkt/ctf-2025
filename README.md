@@ -1,8 +1,4 @@
 # ctf-2025
----
-title: "Lộ trình cấp tốc CTF Web (4 tuần)"
-description: "Lộ trình huấn luyện nhanh cho đội CTF (Web) - phù hợp cho tân sinh viên, gồm lý thuyết, thực hành và phân vai."
----
 
 # 🗓 Lộ trình cấp tốc CTF Web (4 tuần)
 
