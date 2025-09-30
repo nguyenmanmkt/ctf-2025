@@ -13,7 +13,7 @@
 
 ## Môi trường & chuẩn bị
 - Máy ảo (Windows11/Kali) 
-- Burp Suite Community ![Download](https://portswigger.net/burp/communitydownload)
+- Burp Suite Community [Download](https://portswigger.net/burp/communitydownload)
 
 ---
 
