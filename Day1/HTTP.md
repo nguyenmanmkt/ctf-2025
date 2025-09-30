@@ -238,7 +238,7 @@ Content-Type: text/html
 > Thay `images/...` bằng đường dẫn ảnh bạn muốn dùng trên GitHub / Notion.
 
 - Luồng Request/Response:  
-  `![HTTP flow](images/http_flow.png)`
+  `![HTTP flow](Day1/images/HTTP-Status-Codes-Cheat-Sheet.webp)`
 
 - Cheat-sheet Status Codes (infographic):  
   `![Status codes](images/status_codes.png)`
